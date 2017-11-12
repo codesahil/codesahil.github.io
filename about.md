@@ -12,10 +12,11 @@ Other than that I love to **Travel** and **Drive**.
 
 ### Get in Touch
 
-* [**GITHUB**](https://github.com/codesahil)
+* [**GitHub**](https://github.com/codesahil)
 * [**Twitter**](https://twitter.com/codesahil)
 * [**Linkedin**](https://www.linkedin.com/in/sahil-khan-030977128/)
 
 ### Contact me
 
+[sahil@null.co.in](mailto:sahil@null.co.in)
 [sahilkhan0987@protonmail.com](mailto:sahilkhan0987@protonmail.com)
