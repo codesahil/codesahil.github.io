@@ -18,5 +18,4 @@ Other than that I love to **Travel** and **Drive**.
 
 ### Contact me
 
-[sahil@null.co.in](mailto:sahil@null.co.in)
 [sahilkhan0987@protonmail.com](mailto:sahilkhan0987@protonmail.com)
