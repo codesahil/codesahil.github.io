@@ -12,5 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-**Mobile :** +918962486755
 [sahilkhan0987@protonmail.com](mailto:sahilkhan0987@protonmail.com)
