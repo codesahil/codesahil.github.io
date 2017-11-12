@@ -3,8 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+# Home
 
-Some information about you!
+Hello Guys I am Sahil Khan.
+
 
 ### More Information
 
