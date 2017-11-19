@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Technical
-tags: Docker-Virtual-Hosting
+tags: Dockers
 title: Isolated Virtual Hosting Using Dockers!
 ---
 
