@@ -5,7 +5,6 @@ permalink: /about/
 ---
 Being a keen enthusiast in Cyber Security and Open Source Contributor . I am working as _Chapter Leader_ in  [Null - The Open Security Community](http://null.co.in) and also the _Club Captain_ of Mozilla Campus Club of LNCT. I am passionate about programming, GNU/Linux and Dockers . 
 
-I am doing a bachelors degree in _Computer Science_ from _Lakshmi Narain College of Technology and Science_ Bhopal.(Currently 3rd Year)
 
 Other than that I love to **Travel** and **Drive**.
 
